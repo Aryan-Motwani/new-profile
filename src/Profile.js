@@ -99,6 +99,66 @@ function Profile() {
             <h4>Call</h4>
           </div>
         </div>
+              <div className="icons">
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+        </div>
+              <div className="icons">
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+        </div>
+              <div className="icons">
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+          <div className="icon">
+            <a href="tel:+919922776780">
+              <FontAwesomeIcon icon={faPhone} />
+            </a>
+            <h4>Call</h4>
+          </div>
+        </div>
       </div>
     </div>
   );
